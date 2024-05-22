@@ -1,74 +1,26 @@
-permalink: /:year/:i_month/:i_day/:title.html
-exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
-paginate: 5
-paginate_path: /page:num/
-plugins:
-  - jekyll-paginate
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-feed
-#theme: jekyll-theme-so-simple
-remote_theme: hydecorp/hydejack@v9
-masthead_title: Home
-title: "Mathias Meyer"
-logo: "https://intentionalorganization.com/img/a3ded2d0-400.jpeg"
-description: "Executive Leadership Coaching"
-masthead_bio: "I'm an executive leadership coach for founders, executives, and entrepreneurs based on inclusion, clarity, and learning. I'm also a founding partner at <a href=\"https://intentionalorganization.com\" target=\"_blank\">The Intentional Organization</a>, a coaching practice and forthcoming books on building purposeful organizations."
-twitter:
-  username: roidrage
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-search: true
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
 author:
-  name: "Mathias Meyer"
-  location: "Berlin, Germany"
-  picture: https://intentionalorganization.com/img/a3ded2d0-400.jpeg
-  bio: "Executive Leadership Coach to Founders and CTOs"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
-    - label: "Contact Me"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "/contact/"
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-footer_links:
-  - title: "Twitter"
-    icon: "fab fa-fw fa-twitter-square"
-    url: "https://twitter.com/roidrage"
-  - title: "Contact Me"
-    icon: "fas fa-fw fa-envelope-square"
-    url: "/contact/"
-  - title: "Legal"
-    url: "/legal/"
-    icon: "fas fa-fw fa-balance-scale"
+paginate:         5
 
-url: "https://www.paperplanes.de"
-feed:
-  path: feed.xml
+# Custom vars
+version:          2.1.0
 
-defaults:
-  # _posts
-  defaults:
-  # Post defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comments: false
-      share: false
-
-locale: en-US
-
-copyright: 2007-2024 Mathias Meyer ([Legal](/legal/))
-
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+github:
+  repo:           https://github.com/poole/hyde
