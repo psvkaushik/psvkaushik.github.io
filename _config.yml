@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Kaushik Pillalamarri"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tanisha Khurana"
+name                     : "Kaushik Pillalamarri"
 description              : "Kaushik's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/Untitled.png"
+logo                     : "/images/generatedtext.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaushik Pillalamarri"
-  avatar           : "/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/kpavatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in CSE. Specializing in Natural Language Processing"
   location         : "Raleigh, NC"
   email            : "spillal2@ncsu.edu"
