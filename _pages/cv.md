@@ -44,8 +44,7 @@ date: 2023-09-09
 
 *May, 2024 - Present, Raleigh, NC*
 <p>
-
-  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/frink.png" width="300" /> 
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/frink.png?raw=true" width="300" /> 
 </p>
 
 - Collaborating with NSF and five other government agencies to build An open knowledge network is a publicly accessible, interconnected set of data repositories and associated knowledge graphs that will enable data-driven, artificial intelligence-based solutions for a broad set of societal and economic challenges. 
@@ -59,7 +58,7 @@ date: 2023-09-09
 
 <p>
 
-  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/sarc.png" width="300" /> 
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/sarc.png?raw=true" width="300" /> 
 </p>
 
 - Performed an extensive literature survey and analysis on sarcasm types and Transformer neural network architectures to identify sarcasm in sentences.
@@ -85,7 +84,7 @@ date: 2023-09-09
  *August 2021 - December 2021 Hyderabad,India* 
  <p>
 
-  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/smartlamp.png" width="300" /> 
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/smartlamp.png?raw=true" width="300" /> 
 </p>
 - Developed an IoT module called "Smart-Lamp post" that reduces electricity wastage by automatically controlling streetlights in response to the presence of humans and vehicles.
 - Collaborated with a team to integrate hardware and software components, conducted thorough testing and debugging, and contributed to project documentation, resulting in an optimized and stable IoT module.
