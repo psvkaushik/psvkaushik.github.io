@@ -1,0 +1,48 @@
+# main links
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Blog"
+    url: /blog/
+  - title: "About me"
+    url: /about/
+
+
+projects:
+  - title: "Projects"
+    url: /projects/
+  - title: "Machine Learning"
+    url: "#Machine Learning"
+  - title: "Computer Vision"
+    url: "#image processing "
+  - title: "Natural Language Processing"
+    url: "#Natural Language Processing"
+  - title: "Signal Processing"
+    url: "#Signal Processing"
+  - title: "Miscellaneous"
+    url: "#Miscellaneous"
+
+cv:
+  - title: "Work Experience"
+    children:
+      - title: "Precision Sustainable Agriculture"
+        url: "#Precision Sustainable Agriculture"
+      - title: "Active Robotics and Sensing Lab"
+        url: "#Active Robotics and Sensing Lab"
+      - title: "Wobot"
+        url: "#Wobot"
+      - title: "Intello Labs"
+        url: "#Intello Labs"
+      - title: "Qiggle"
+        url: "#Qiggle"
+      - title: "Innefu"
+        url: "#Innefu Technologies"
+      - title: "Genelek"
+        url: "#Genelek"
+      - title: "Volunteer"
+        url: "#Volunteer"
+  - title: "Achievements"
+  - title: "Skills"
+  - title: "Education"
