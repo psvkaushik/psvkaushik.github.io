@@ -31,118 +31,73 @@ date: 2023-09-09
 
 
 ## Resume 
-[Download Resume](https://tanisha1112.github.io/resumes/Tanisha_resume_CV_ML.pdf){:target="_blank"}{: .btn .btn--info}
+[Download Resume](https://github.com/psvkaushik/psvkaushik.github.io/blob/main/resumes/KP_ML_res.pdf){:target="_blank"}{: .btn .btn--info}
 
 ## Contact
-- Email: [tkhuran3@ncsu.edu]()
-- LinkedIn: [linkedin.com/in/tanisha-khurana](https://www.linkedin.com/in/tanisha-khurana/)
+- Email: [spillal2@ncsu.edu]()
+- LinkedIn: [linkedin.com/in/psvkaushik](https://www.linkedin.com/in/psvkaushik/)
 
 ## Experience
 
-### Precision Sustainable Agriculture, NCSU  
+### Renaissance Computing Institute, UNC Chapel Hill - Carolina Big Data Group, NCSU
 ***Graduate Research Assistant***
 
-*March, 2023 - Present, Raleigh, NC*
+*May, 2024 - Present, Raleigh, NC*
 <p>
-    <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/bio.png"  width="300" />
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/mtl.png" width="300" /> 
+
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/frink.png" width="300" /> 
 </p>
 
-- Collaborated with USDA to integrate a camera system with an ML model for mapping crop species, biomass and densities.
-- Working on Domain Adaptation and Multi-task learning for Semantic Segmentation using Deeplabv3+ and Biomass Composition of plant species to assess crop yield and monitor plant growth.
-- Achieved an RMSE of 6.49, a 14.3% decrease from the SOTA model with no additional data and improved real time performance.
-- Engineered a containerized system with integrated RESTful APIs for seamless data visualization and control.
-- Implemented an image classification model for precision farming, accurately differentiating crop species from weeds
+- Collaborating with NSF and five other government agencies to build An open knowledge network is a publicly accessible, interconnected set of data repositories and associated knowledge graphs that will enable data-driven, artificial intelligence-based solutions for a broad set of societal and economic challenges. 
+- Working on Query engine optimization techniques to implement pathfinding queries across knowledge graphs.
 
 
-### Active Robotics and Sensing Lab, NCSU  
-***Research Assistant***
+### DataMinr - Multiagent Systems and Social AI Laboratory, NCSU  
+***Graduate Student Researcher***
 
-*March, 2023 - September 2023, Raleigh, NC*
-
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/foram.jpg"  width="300" />
-
-- Performed an extensive literature survey and analysis on region-based and topology preserving edge-based chamber segmentation techniques for identification of Foraminifera species.
-- Generated 2D segmentation masks from synthetic 3D reconstructions in Blender and trained a U-Net segmentation model.
-
-### Wobot.ai 
-***Senior Computer Vision Engineer***
-
-*May,2021 - July,2022 Delhi,India*
-
-- Developed customized Video Analytics and Smart Surveillance solutions for diverse industries including hospitality, food service, and retail, resulting in improved security and operational efficiency.
-- Formulated algorithms for varied tasks including activity recognition, multi-object detection and tracking, pose estimation, motion detection, facial recognition, and person re-identification.
-- Processed RTSP feeds from over 200+ CCTV cameras, enabling advanced monitoring and actionable insights.
-- Scaled ML models in high-throughput and low-latency using TF Serving and triton leading to 50% faster inference time.
-  
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/lpr.png"  width="300" />
-
-- Implemented Vehicle detection using Yolov5s (License plate detector), Nvidia-LPRnet and Paddle Ocr for license plate detection and detects the wait time if it exceed a specified amount. 
-
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/slowfast.jpeg" width="300" /> 
-
-
-- Activity Recognition for usecases like mopping and shoplifting detection using Slow Fast with Pytorch and DeepSort tracking algorithm. 
-
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/yolov5.jpg" width="300" /> 
-
-
-### Intello Labs 
-***Machine Learning Engineer***
-
-*Jan,2020 - May,2021 Gurgaon,India*
+*February, 2024 - present, Raleigh, NC*
 
 <p>
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/sort2.webp"  width="300" />
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/tomato.png" width="300" /> 
+
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/sarc.png" width="300" /> 
 </p>
 
-- Led the entire development lifecycle for a real-time AI powered commodity grader [Intello Sort](https://www.intellolabs.com/intellosort) utilizing size, color and visual defect analysis.
-- Developed [Intello Shelf Eye](https://www.intellolabs.com/intello-shelfeye) to monitor shelves and bins and assess the quality of the fruits and vegetables over a Rasberry Pi camera. 
-- Accomplished an identification accuracy of 95% and classification accuracy of approximately 90%.
-- Utilized Faster RCNN, Mask-RCNN and SSD for object detection of 20 different fruits with an average size error of ∼1 mm.
+- Performed an extensive literature survey and analysis on sarcasm types and Transformer neural network architectures to identify sarcasm in sentences.
+- Successfully recreated the current SOTA results whose code was not made public by the original authors.[Link to paper](https://aclanthology.org/2023.eacl-main.25.pdf). [Link to code in progress]()
+- Working on improving the current SOTA architecture.
 
-### Qiggle 
-***Data Scientist***
+### Christopher Healey Lab, NCSU
+***Graduate Student Researcher***
 
-*Jan,2019 - Dec,2019 Delhi,India*
+*May, 2023 - Aug 2023, Raleigh, NC*
 
-- Designed a predictive analytics solution for industrial applications using Anomaly detection and remaining life estimation
-- Detected under-performing and abnormally-behaving assets to save weeks of lost power generation and reduce asset downtime.
-
-### Innefu Technologies
-***Data Science intern***
-
-*Oct, 2018 - Dec, 2018 Delhi,India*
-
-- Implemented ResNet50 and YOLOv3 for advanced facial recognition and video analytics in collaboration with the Delhi Police, leveraging their law enforcement dataset. 
+- Devised a system based on Clustering and Large Language Models(LLMs) on news articles using extractive summarization to provide different ideological perspectives on the given news topic, for readers who are interested in seeing different perspectives.
+- Implemented web scraping techniques to collect data from various online news sources, utilizing BeautifulSoup
   
-- Achieved a high True Positive Rate (TPR) exceeding 98% in tasks such as missing persons detection, intrusion detection, crowd management, and security surveillance.
+### International Institute of Information Technology, Hyderabad, India
+***Research Intern***
 
-### GenElek Technologies
-***Electronics Engineer intern***
+*December 2021 - January 2022 Hyderabad,India*
 
-*Aug,2018 - Oct, 2018 Delhi,India*
+- Conducted ETL (Extract, Transform, Load) processes on large datasets, involving exploratory data analysis, data cleansing, and aggregation using pandas.
+-  Engineered features and applied traditional machine learning models such as RandomForest, SVM, and Naive Bayes. Analyzed and compared the performance outcomes of these models to optimize data-driven decisions, acheived a 82% accuracy on the Random Forest model.
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/genelek.png" width="300" />
+ *August 2021 - December 2021 Hyderabad,India* 
+ <p>
 
-- Contributed to the development of cost-effective and lightweight lower limb exoskeletons, pioneering advancements in algorithms for seamless transitions between sitting and standing positions.
-- Led the implementation of actuation and simulation through the integration of Arduino, accelerometer, EMG muscle sensor, and actuators.
+  <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/smartlamp.png" width="300" /> 
+</p>
+- Developed an IoT module called "Smart-Lamp post" that reduces electricity wastage by automatically controlling streetlights in response to the presence of humans and vehicles.
+- Collaborated with a team to integrate hardware and software components, conducted thorough testing and debugging, and contributed to project documentation, resulting in an optimized and stable IoT module.
   
-## Achievements
 
-- Ranked first in NC Plant Science Initiative hackathon for the most accurate semantic segmentation model with 79% accuracy.
-- Recipient of the GHC 2023 Scolarship and SWE 2023 Scholarship from NC State. 
-- Academic Chair for Women in ECE (wiECE) at NC State. 
-- Completed a 10 week Leadership Development Program Certification Course at NC State. Earned a leadership certificate by engaging in a coaching relationship and leadership experience, and completing the foundation workshops and a reflection paper.
-- Member of Women in Computer Science (wics), Embedded Machine Learning Club and Quantum Information Club at NC State.
   
 ## Skills
 
-- **Languages:** Python, C/C++, SQL, Bash, Git
-- **Developer Tools:** MATLAB, AWS, Azure, Google Cloud, Docker
-- **Frameworks:** OpenCV, Pytorch, Tensorflow, Scikit-Learn, Pandas, Numpy, PIL, Matplotlib, Seaborn,Pytest ROS, Flask
+- **Languages:** Python, JavaScript, Typescript, SQL, SPARQL
+- **Developer Tools:** Git, GitHub, MATLAB, MySQL, Bash, Ansible, Kubernetes, Docker, Github Actions CI/CD, Azure, Docker, Prometheus
+- **Frameworks:** Pytorch, Tensorflow, Scikit-Learn, Pandas, Numpy, PIL, Matplotlib, Seaborn,Pytest, Comunica, Langchain
 
 ## Courses
 
-Digital Imaging Systems, Neural Networks and Deep Learning, Advanced Machine Learning, Computer Vision, Digital Signal Processing, Natural Language Processing, Probability and Random Processes, Detection and Estimation Theory, Pattern Recognition, Cloud Computing, Probabilistic Graphical Models for Signal Processing and Computer Vision
+Digital Imaging Systems, Neural Networks and Deep Learning, Natural Language Processing, DevOps, Automated Learning and Data Analysis, Automated Software Engineering.
