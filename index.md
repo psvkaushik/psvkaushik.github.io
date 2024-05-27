@@ -17,9 +17,8 @@ date: 2023-09-09
 
 </body>
 </html>
-<div class="circular-image">
+
 <img src="https://github.com/psvkaushik/psvkaushik.github.io/blob/main/images/Untitled.png?raw=true" width="300">{: .align-center}
-</div>
 [Resume](https://tanisha1112.github.io/cv/){: .btn .btn--info}{:target="_blank"} [Portfolio](https://tanisha1112.github.io/projects/){: .btn .btn--info}{:target="_blank"} [LinkedIn](https://www.linkedin.com/in/tanisha-khurana/){: .btn .btn--info}{:target="_blank"}
 {: .text-center}
 
